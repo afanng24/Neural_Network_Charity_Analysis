@@ -18,6 +18,23 @@ Were you able to achieve the target model performance?
 What steps did you take to try and increase model performance?
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
+The written analysis has the following structure, organization, and formatting:
 
+There is a title, and there are multiple sections (2 pt)
+Each section has a heading and subheading (2 pt)
+Links to images are working, and code is formatted and displayed correctly (2 pt).
+Analysis (24 points)
+The written analysis has the following:
+
+Overview of the loan prediction risk analysis:
+
+The purpose of this analysis is well defined (4 pt)
+Results:
+
+There is a bulleted list that answers all six questions (15 pt)
+Summary:
+
+There is a summary of the results (2 pt)
+There is a recommendation on using a different model to solve the classification problem, and justification (3 pt)
 
 
