@@ -21,3 +21,5 @@ The objective of Neural Network Charity Analysis is to use the provided dataset 
 to tanh.The save frequency was changed to every 5 seconds and the epochs was changed from 100 to 200 for a larger sample size. 
 
 ## Summary
+The original model only achieved an accuracy rate of 67% and with the additional steps taken the accuracy was increased to 73%. The model is still 2% off the target predictive accuracy, however, it has significantly increased the rate by 6%. 
+
