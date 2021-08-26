@@ -10,10 +10,11 @@ The objective of Neural Network Charity Analysis is to use the provided dataset 
 
 ## Results
 - The variable that should be considered as the target is the "IS_SUCESSFUL"
-- What variable(s) are considered to be the features for your model?
-- What variable(s) are neither targets nor features, and should be removed from the input data?
+- The variables considered to be features for the model are underlined as the varying column names. Such as Status, Application_Type, Affiliation, Classifications, Use_Case, Organization, Income_Amount ,and  Special_Considerations.
+- The variables of “Ein” and “Name” are neither targets nor features, and were removed early on in the code. 
 
-Compling, training and evaluating the model
+### Compling, training and evaluating the model
+
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
 - Were you able to achieve the target model performance?
 - What steps did you take to try and increase model performance?
