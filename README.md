@@ -37,4 +37,16 @@ Summary:
 There is a summary of the results (2 pt)
 There is a recommendation on using a different model to solve the classification problem, and justification (3 pt)
 
+# Neural Network Charity Analysis
 
+## Overview of Project
+
+
+## Resources
+**Source of Data** : charity_data.csv
+
+**Software** : Python, Pandas, Jupyter Notebook,
+
+## Results
+
+## Summary
