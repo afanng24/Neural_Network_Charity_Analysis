@@ -9,7 +9,7 @@ The objective of Neural Network Charity Analysis is to use the provided dataset 
 **Software** : Python, Pandas, Jupyter Notebook,
 
 ## Results
-- What variable(s) are considered the target(s) for your model?
+- The variable that should be considered as the target is the "IS_SUCESSFUL"
 - What variable(s) are considered to be the features for your model?
 - What variable(s) are neither targets nor features, and should be removed from the input data?
 
