@@ -1,46 +1,7 @@
-# Neural_Network_Charity_Analysis
-
-For this part of the Challenge, you’ll write a report on the performance of the deep learning model you created for AlphabetSoup.
-
-The report should contain the following:
-
-Overview of the analysis: Explain the purpose of this analysis.
-
-Results: Using bulleted lists and images to support your answers, address the following questions.
-
-Data Preprocessing
-What variable(s) are considered the target(s) for your model?
-What variable(s) are considered to be the features for your model?
-What variable(s) are neither targets nor features, and should be removed from the input data?
-Compiling, Training, and Evaluating the Model
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Were you able to achieve the target model performance?
-What steps did you take to try and increase model performance?
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
-
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections (2 pt)
-Each section has a heading and subheading (2 pt)
-Links to images are working, and code is formatted and displayed correctly (2 pt).
-Analysis (24 points)
-The written analysis has the following:
-
-Overview of the loan prediction risk analysis:
-
-The purpose of this analysis is well defined (4 pt)
-Results:
-
-There is a bulleted list that answers all six questions (15 pt)
-Summary:
-
-There is a summary of the results (2 pt)
-There is a recommendation on using a different model to solve the classification problem, and justification (3 pt)
-
 # Neural Network Charity Analysis
 
 ## Overview of Project
-
+The objective of Neural Network Charity Analysis is to use the provided dataset named “charity_data.csv” and figure out a way to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. To accomplish this task, we must consider which variables are considered the targets for our model, what variables are considered to be the features for our model, and what variables are neither ratgets nor features and to remove them. After the model is complete we will refactor our code to increase performance by creating more hidden layers, adding more neurons to the hidden layers and adding epochs to the training regimen. 
 
 ## Resources
 **Source of Data** : charity_data.csv
@@ -48,5 +9,14 @@ There is a recommendation on using a different model to solve the classification
 **Software** : Python, Pandas, Jupyter Notebook,
 
 ## Results
+- What variable(s) are considered the target(s) for your model?
+- What variable(s) are considered to be the features for your model?
+- What variable(s) are neither targets nor features, and should be removed from the input data?
+
+Compling, training and evaluating the model
+- How many neurons, layers, and activation functions did you select for your neural network model, and why?
+- Were you able to achieve the target model performance?
+- What steps did you take to try and increase model performance?
+
 
 ## Summary
